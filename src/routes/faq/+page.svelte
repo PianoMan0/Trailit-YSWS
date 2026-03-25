@@ -20,7 +20,7 @@
         },
         {
             question: "How long will TrailIt run?",
-            answer: "TrailIt will run for 2 monthes (With expension maybe availdable), from March 15th, to May 15th"
+            answer: "TrailIt will run for 2 months (With expension maybe available), from March 15th, to May 15th"
         },
         {
             question: "How do I track my time?",
@@ -36,11 +36,11 @@
         },
         {
             question: "What counts as a web-app?",
-            answer: "A web-app is basicly any non-static website, that has some sort of functionality or interactivity to it. It can be a game, a tool, a social media platform, or anything else you can think of! If you're not sure if your project counts as a web-app, feel free to ask in the <a href='https://hackclub.enterprise.slack.com/archives/C0AGG8J6PLL' target='_blank'><u>#trailit-ysws</u></a> channel on Slack! (Game engines like unity and godot does *NOT* count!)"
+            answer: "A web-app is basically any non-static website, that has some sort of functionality or interactivity to it. It can be a game, a tool, a social media platform, or anything else you can think of! If you're not sure if your project counts as a web-app, feel free to ask in the <a href='https://hackclub.enterprise.slack.com/archives/C0AGG8J6PLL' target='_blank'><u>#trailit-ysws</u></a> channel on Slack! (Game engines like unity and godot does *NOT* count!)"
         },
         {
             question: "Is AI Allowed?",
-            answer: "Yes, AI is allowed to be used, but, its most be used only as an assistent, IT SHOULD *NOT* Write code insted of you."
+            answer: "Yes, AI is allowed to be used, but, its most be used only as an assistent, IT SHOULD *NOT* Write code instead of you."
         }
     ];
 
